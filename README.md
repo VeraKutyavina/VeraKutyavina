@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VeraKutyavina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FCA5A5&icon_color=FCA5A5&text_color=E6E6E6&bg_color=0,000000,755adc" alt="my Github Stats"/>
+
+<img alt="followers" src="https://img.shields.io/github/followers/VeraKutyavina?label=Followers&style=social">
+
 <!--
 **VeraKutyavina/VeraKutyavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
